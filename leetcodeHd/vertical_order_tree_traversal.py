@@ -1,4 +1,6 @@
 # 314. Binary Tree Vertical Order Traversal (Medium)
+# Almost similar to LC 987
+
 from collections import defaultdict
 class TreeNode:
     def __init__(self, key):
