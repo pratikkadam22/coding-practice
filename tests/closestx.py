@@ -1,1 +1,0 @@
-# https://www.geeksforgeeks.org/find-k-closest-points-to-the-origin/?ref=rp
