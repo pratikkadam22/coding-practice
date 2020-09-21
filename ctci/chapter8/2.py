@@ -26,6 +26,7 @@ def get_path_helper(matrix, visited, row, col, path):
 
 matrix = [[1,2,3,4],[5,6,7,8],[9,10,11,12]]
 matrix = [[1,2,None,4],[5,6,7,None],[None,10,11,12]]
+matrix = [[1,None,3,4],[5,6,7,None],[None,None,None,12]]
 
 print(get_path(matrix))
     
