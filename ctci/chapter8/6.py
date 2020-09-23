@@ -1,3 +1,5 @@
+# 8.6: Towers of Hanoi
+
 class Tower:
     def __init__(self, tnum):
         self.stack = []
