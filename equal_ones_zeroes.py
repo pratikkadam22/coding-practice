@@ -21,7 +21,8 @@ def equal_ones_zeroes(input, n):
     if maxlen == len(input):
         print(input)
         return maxlen
-    print(input[end_index: end_index - maxlen: -1])
+    res = input[end_index: end_index - maxlen: -1]
+    print(res[::-1])
     return maxlen
  
 input = [1,5,6,10,23,14,2,5,29,2,1,12]
