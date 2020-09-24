@@ -1,5 +1,5 @@
 # Find the longest subarray where:
-# number of values greater than equal to 10 > number of values less than 10
+# number of values greater than equal to 10 < number of values less than 10
 
 def more_ones(input, n):
     curr_sum, maxlen, end_index = 0, 0, 0
