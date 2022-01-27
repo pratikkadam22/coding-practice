@@ -1,6 +1,6 @@
 from collections import defaultdict 
   
-# This class represents a directed graph 
+# This class represents a directed
 # using adjacency list representation 
 class Graph: 
   
