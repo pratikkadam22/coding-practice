@@ -1,4 +1,4 @@
-# This function uses queu data structure to print binary numbers 
+# This function uses queu data structure to print binary
 def generatePrintBinary(n): 
       
     # Create an empty queue 
